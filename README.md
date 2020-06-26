@@ -1,4 +1,4 @@
-# Covid-19-ChatBot using IBM Watson
+# Covid-19 ChatBot using IBM Watson
 
 I have build a covid-19 chatbot with IBM watson and successfully deploy in a website.Train with different questions like:
 - what is covid-19
